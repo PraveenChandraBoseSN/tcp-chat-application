@@ -1,0 +1,1 @@
+This directory consists of server and client scripts where a request from a client is responded by the server and the connections are closed.
