@@ -1,0 +1,1 @@
+This file consists of a server and a client where the client sends a message and the server prints the message without sending any messages back
