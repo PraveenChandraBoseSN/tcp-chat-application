@@ -1,0 +1,1 @@
+The client runs for multiple and different types of requests and the server handles the requests correctly and returns the appropriate responses.
