@@ -1,0 +1,1 @@
+This file contains scripts that run for multiple client commands until client exits explicitly
