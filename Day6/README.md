@@ -1,0 +1,1 @@
+This script consists of code for a server and client to work on threads and multiple commands i.e one send and one receive
